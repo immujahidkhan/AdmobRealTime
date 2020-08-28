@@ -1,0 +1,3 @@
+include ':RealTimeAdmobAds'
+include ':app'
+rootProject.name = "AdmobRealTimeUnitIdSample"
